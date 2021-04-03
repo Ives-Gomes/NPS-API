@@ -79,6 +79,7 @@ The following tools were used in the construction of the project:
 - **[Express Async Errors](https://github.com/davidbanham/express-async-errors)**
 - **[Handlebars](https://handlebarsjs.com/)**
 - **[Node Mailer](https://nodemailer.com/about/)**
+- **[Etherial](https://ethereal.email/)**
 - **[Reflect Metadata](https://github.com/rbuckton/reflect-metadata)**
 - **[SQLite3](https://www.sqlite.org/index.html)**
 - **[Type ORM](https://typeorm.io/#/)**
